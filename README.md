@@ -77,5 +77,7 @@ E corrija o path do python pela saída do whereis, ficaria algo assim: #!/usr/bi
 
 
 ### Colab
-Se tiver uma conta google pode abrir diretamente no Colab. No aquivo 
+Se tiver uma conta google pode abrir diretamente no Colab. No aquivo [jogo_forca.ipynb](https://github.com/earmarques/jogo-forca/blob/main/jogo_forca.ipynb) clique na imagem <img style="" src="https://github.com/earmarques/jogo-forca/blob/main/images/forca-colab.png"> para criar uma cópia e poder rodar.
+
+
 

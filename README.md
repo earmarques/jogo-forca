@@ -1,6 +1,17 @@
 # Jogo da Forca
 Desenha no terminal o jogo da forca.
 
+### Contexto
+
+O Jogo da forca foi um exercício passado pelo professor Dr. Henrique Dezani a turma de Linguagem de Programanção, vista no 2º semestre do curso Análise e Desenvolvimento de Sistema na Fatec/Rio Preto - SP.
+<br>
+_O enuncionado dizia:_
+> _5.2.7. Implemente o jogo da forca. Um usuário deverá entrar com uma palavra. Em seguida, outro usuário deverá indicar as letras dessa palavra. Caso exista, deverá ser mostrada as letras e as suas posições na palavra. Caso não exista, o usuário perderá uma chance. No total, o usuário terá 6 chances para acertar._
+
+Estávamos na quinta aula, da sintaxe da linguagem Python só haviamos visto estruturas condicional, de repetição e listas. Então fiz questão de usar somente os recursos que haviamos aprendido até então. O código poderia ser muito melhorado usando funções.
+
+
+
 ---
 ## O Jogo
 

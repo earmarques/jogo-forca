@@ -91,7 +91,8 @@ E corrija o path do python pela saída do whereis, ficaria algo assim: #!/usr/bi
 
 
 ### Colab
-Se tiver uma conta google pode abrir diretamente no Colab. No aquivo [jogo_forca.ipynb](https://github.com/earmarques/jogo-forca/blob/main/jogo_forca.ipynb) clique na imagem <a href="https://github.com/earmarques/jogo-forca/blob/main/jogo_forca.ipynb"><img src="https://github.com/earmarques/jogo-forca/blob/main/images/forca-colab.png"></a> para criar uma cópia e poder rodar.
+Pode executar no próprio navegar usando o Google Colab <a href="https://colab.research.google.com/"><img src="https://github.com/earmarques/jogo-forca/blob/main/images/forca-colab.png" alt="Google Colab" title="Google Colab"></a>. Crie um novo notebook e cole o código de <kbd>forca.py</kbd> e aperte o play.
+Para limpar a saída a cada rodada, têm três linha que deve remover o comentário ('#' no início da linha); procure por <kbd># COLAB: descomentar essa linha se for rodar no Colab</kbd> 
 
 
 

@@ -46,13 +46,13 @@ Trágico - sem vida nos olhos, o enforcado sucumbe reclinando sua cabeça para o
 
 ---
 
-## Dependencia
+## Dependência
 Precisa do Python 3 instalado. Se usa GNU/Linux, provavelmente já possui alguma versão do Python instalada por padrão.
 Verifique com o comando:
 ```sh
 python --version
 ```
-_Output: Python 3.10.6_
+<kbd>_Output: Python 3.10.6_</kbd>
 
 Caso não esteja instalado, instale com os comandos abaixo:
 ```sh

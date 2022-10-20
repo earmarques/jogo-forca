@@ -67,13 +67,13 @@ sudo apt install python3
 ## Executar
 
 ### Com o comando python3
-Baixe o arquivo forca.py e no mesmo diretório executeo comando:
+Baixe o arquivo <kbd>forca.py</kbd> e no mesmo diretório executeo comando:
 
 ```sh
 python3 forca.py
 ```
 ### Como shell script
-Baixe o arquivo forca.py e forneça permissão de execução ao arquivo:
+Baixe o arquivo <kbd>forca.py</kbd> e forneça permissão de execução ao arquivo:
 
 ```sh
 chmod +x forca.py

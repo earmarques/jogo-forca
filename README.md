@@ -1,5 +1,5 @@
 # Jogo da Forca
-Desenha no terminal o jogo da forca.
+O tradicional Jogo da Forca desenhado com caracteres no terminal.
 
 ### Contexto
 
